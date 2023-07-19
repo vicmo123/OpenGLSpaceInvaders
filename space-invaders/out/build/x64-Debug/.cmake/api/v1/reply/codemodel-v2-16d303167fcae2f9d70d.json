@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "space-invaders",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "space-invaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-space-invaders-Debug-dd38656e6bdcd6ef6067.json",
+					"name" : "space-invaders",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Student/Desktop/ISI/cours/J03 - Lib Graphiques/j03-lib-graphique-gr22151-gr22104-victor/SDL/space-invaders/out/build/x64-Debug",
+		"source" : "C:/Users/Student/Desktop/ISI/cours/J03 - Lib Graphiques/j03-lib-graphique-gr22151-gr22104-victor/SDL/space-invaders"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
